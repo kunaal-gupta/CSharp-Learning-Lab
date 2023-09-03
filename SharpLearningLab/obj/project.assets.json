@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kunaa\\RiderProjects\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\kunaa\\RiderProjects\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\kunaa\\RiderProjects\\ConsoleApp1\\SharpLearningLab\\SharpLearningLab.csproj",
+      "projectName": "SharpLearningLab",
+      "projectPath": "C:\\Users\\kunaa\\RiderProjects\\ConsoleApp1\\SharpLearningLab\\SharpLearningLab.csproj",
       "packagesPath": "C:\\Users\\kunaa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kunaa\\RiderProjects\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\kunaa\\RiderProjects\\ConsoleApp1\\SharpLearningLab\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kunaa\\AppData\\Roaming\\NuGet\\NuGet.Config"

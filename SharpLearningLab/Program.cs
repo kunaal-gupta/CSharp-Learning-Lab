@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Immutable;
 
-class Practice
+class SharpLearningExperiments
 {
 
     public int Sum(int a, int b)
@@ -56,12 +56,12 @@ class MainProg
 {
     public static void Main()
     {
-        var a = new Practice();
+        var a = new SharpLearningExperiments();
         var input  = Console.ReadLine();
         string[] arrInput = input.Split(' ');
         int[] intArr = arrInput.Select(int.Parse).ToArray();
         
-        Console.WriteLine($"Sum: {Practice.GetAbsSum(intArr)}");
+        Console.WriteLine($"Sum: {SharpLearningExperiments.GetAbsSum(intArr)}");
         
         // Console.WriteLine(Practice.Month(int.Parse(Console.ReadLine())));
         // Console.WriteLine(a.Sum(1, 2));
