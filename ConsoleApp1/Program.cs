@@ -39,6 +39,17 @@ class Practice
 
         return sum;
     }
+
+    public static int[] MultiplyByLength(int[] arr)
+    {
+        int arrLen = arr.Length;
+        for (int i = 0; i<arr.Length; i++)
+        {
+            arr[i] = arr[i] * arrLen;
+        }
+
+        return arr;
+    }
 }
 
 class MainProg
