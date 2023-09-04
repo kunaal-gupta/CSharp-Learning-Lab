@@ -123,6 +123,22 @@ class DataStructures
 
         return "none";
     }
+
+    public static string ount_all(string txt)
+    {
+        int LETTERS = 0;
+        int DIGITS = 0;
+        
+        foreach (var i in txt)
+        {
+            if (char.IsDigit(i)) DIGITS += 1;
+            else if (char.IsLetter(i)) LETTERS += 1;
+        }
+
+        string result = $"{{ LETTERS = {LETTERS}, DIGITS = {DIGITS} }}";
+
+        return result;
+    }
 }
 class MainProg
 {
@@ -130,7 +146,7 @@ class MainProg
     {
         // var a = new Arrays();
         // string output = Strings.LongBurp(2);
-        Console.WriteLine(DataStructures.NSidedShape(3));
+        Console.WriteLine(DataStructures.ount_all("Hello World"));
         // Console.WriteLine(output);
 
         // int[] arr;
