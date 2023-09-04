@@ -73,25 +73,29 @@ class Strings
         }
     return str.Substring(1, str.Length - 2);
     }
+
+    public static string Repetition(string txt, int n)
+    {
+        string newString = "";
+        int count = n;
+
+        if (count == 1)
+        {
+            return txt;
+        }
+        else
+        {
+            return txt += Repetition(txt, n - 1);
+        }
+    }
 }
 class MainProg
 {
     public static void Main()
     {
         // var a = new Arrays();
-        string output = Strings.RemoveFirstLast("kd");
+        string output = Strings.Repetition("kd", 5);
         Console.WriteLine(output);
-
-        // string input  = Console.ReadLine();
-        // string filename = Arrays.GetFilename(input);
-        // Console.WriteLine($"filename: {filename}" );
-
-
-        // Console.WriteLine($"Sum: {SharpLearningExperiments.GetAbsSum(intArr)}");
-
-        // Console.WriteLine(Practice.Month(int.Parse(Console.ReadLine())));
-        // Console.WriteLine(a.Sum(1, 2));
-        // Console.WriteLine(Practice.Area(1, 2));
 
         // int[] arr;
         // int[] arr = new int[12];
