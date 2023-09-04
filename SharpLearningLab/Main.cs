@@ -88,13 +88,18 @@ class Strings
             return txt += Repetition(txt, n - 1);
         }
     }
+
+    public static int CountDs(string str)
+    {
+        return str.Count(c => c == 'D' || c == 'd');
+    }
 }
 class MainProg
 {
     public static void Main()
     {
         // var a = new Arrays();
-        string output = Strings.Repetition("kd", 5);
+        int output = Strings.CountDs("My friend Dylan got distracted at school");
         Console.WriteLine(output);
 
         // int[] arr;
