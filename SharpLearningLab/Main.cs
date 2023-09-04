@@ -93,13 +93,19 @@ class Strings
     {
         return str.Count(c => c == 'D' || c == 'd');
     }
+    public static string LongBurp(int b)
+    {
+        string output = "Bur " + new string('r', b) + "p";
+        return output;
+    }
+
 }
 class MainProg
 {
     public static void Main()
     {
         // var a = new Arrays();
-        int output = Strings.CountDs("My friend Dylan got distracted at school");
+        string output = Strings.LongBurp(2);
         Console.WriteLine(output);
 
         // int[] arr;
