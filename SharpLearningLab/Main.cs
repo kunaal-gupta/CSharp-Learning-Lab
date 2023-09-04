@@ -73,7 +73,6 @@ class Strings
         }
     return str.Substring(1, str.Length - 2);
     }
-
     public static string Repetition(string txt, int n)
     {
         string newString = "";
@@ -88,7 +87,6 @@ class Strings
             return txt += Repetition(txt, n - 1);
         }
     }
-
     public static int CountDs(string str)
     {
         return str.Count(c => c == 'D' || c == 'd');
@@ -100,13 +98,40 @@ class Strings
     }
 
 }
+
+class DataStructures
+{
+    public static string NSidedShape(int n)
+    {
+        Dictionary<int, string> dict = new Dictionary<int, string>
+        {
+            { 1, "circle" },
+            { 2, "semi-circle" },
+            { 3, "triangle" },
+            { 4, "square" },
+            { 5, "pentagon" },
+            { 6, "hexagon" },
+            { 7, "heptagon" },
+            { 8, "octagon" },
+            { 9, "nonagon" },
+            { 10, "decagon" }
+        };
+        if (dict.ContainsKey(n) == true)
+        {
+            return dict[n];
+        }
+
+        return "none";
+    }
+}
 class MainProg
 {
     public static void Main()
     {
         // var a = new Arrays();
-        string output = Strings.LongBurp(2);
-        Console.WriteLine(output);
+        // string output = Strings.LongBurp(2);
+        Console.WriteLine(DataStructures.NSidedShape(3));
+        // Console.WriteLine(output);
 
         // int[] arr;
         // int[] arr = new int[12];
