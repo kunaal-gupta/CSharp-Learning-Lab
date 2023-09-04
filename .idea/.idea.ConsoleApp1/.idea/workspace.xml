@@ -8,41 +8,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1889115d-31ac-4bf3-9485-dffcda64f155" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/SharpLearningLab/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ConsoleApp1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ConsoleApp1/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ConsoleApp1/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ConsoleApp1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1.sln" beforeDir="false" afterPath="$PROJECT_DIR$/SharpLearningLab.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/ConsoleApp1.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/SharpLearningLab/SharpLearningLab.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpLearningLab/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/SharpLearningLab/bin/Debug/net7.0/ConsoleApp1.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SharpLearningLab/bin/Debug/net7.0/SharpLearningLab.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/SharpLearningLab/bin/Debug/net7.0/ConsoleApp1.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SharpLearningLab/bin/Debug/net7.0/SharpLearningLab.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/SharpLearningLab/bin/Debug/net7.0/ConsoleApp1.runtimeconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/ConsoleApp1.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/SharpLearningLab/obj/ConsoleApp1.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/ConsoleApp1.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/SharpLearningLab/obj/ConsoleApp1.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/ConsoleApp1.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/SharpLearningLab/obj/ConsoleApp1.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpLearningLab/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpLearningLab/obj/Debug/net7.0/ConsoleApp1.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SharpLearningLab/obj/Debug/net7.0/ConsoleApp1.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/SharpLearningLab/obj/Debug/net7.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.GlobalUsings.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpLearningLab/obj/Debug/net7.0/ConsoleApp1.GlobalUsings.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SharpLearningLab/obj/Debug/net7.0/ConsoleApp1.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SharpLearningLab/obj/Debug/net7.0/ConsoleApp1.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SharpLearningLab/obj/Debug/net7.0/ConsoleApp1.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SharpLearningLab/obj/Debug/net7.0/ConsoleApp1.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SharpLearningLab/obj/Debug/net7.0/ConsoleApp1.genruntimeconfig.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SharpLearningLab/obj/Debug/net7.0/ConsoleApp1.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/net7.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/SharpLearningLab/obj/Debug/net7.0/apphost.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/net7.0/ref/ConsoleApp1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SharpLearningLab/obj/Debug/net7.0/ref/ConsoleApp1.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/net7.0/refint/ConsoleApp1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SharpLearningLab/obj/Debug/net7.0/refint/ConsoleApp1.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/SharpLearningLab/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SharpLearningLab/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/project.packagespec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/SharpLearningLab/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/SharpLearningLab/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ConsoleApp1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ConsoleApp1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SharpLearningLab/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpLearningLab/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SharpLearningLab/bin/Debug/net7.0/SharpLearningLab.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SharpLearningLab/bin/Debug/net7.0/SharpLearningLab.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SharpLearningLab/bin/Debug/net7.0/SharpLearningLab.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SharpLearningLab/bin/Debug/net7.0/SharpLearningLab.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SharpLearningLab/obj/Debug/net7.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/SharpLearningLab/obj/Debug/net7.0/apphost.exe" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,12 +30,16 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2UiHPC1dG4bQjB1cVpnjmEUwbcv" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
@@ -79,6 +53,9 @@
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "GitIgnore"
+    ],
     "rider.external.source.directories": [
       "C:\\Users\\kunaa\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\DecompilerCache",
       "C:\\Users\\kunaa\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\SourcesCache",
@@ -119,7 +96,7 @@
       <workItem from="1693695561993" duration="4387000" />
       <workItem from="1693705975965" duration="1185000" />
       <workItem from="1693709739003" duration="6881000" />
-      <workItem from="1693719746273" duration="1500000" />
+      <workItem from="1693719746273" duration="7658000" />
     </task>
     <servers />
   </component>
@@ -127,6 +104,7 @@
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
 </project>

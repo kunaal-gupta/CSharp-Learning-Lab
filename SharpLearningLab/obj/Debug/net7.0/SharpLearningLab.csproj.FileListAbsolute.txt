@@ -1,0 +1,14 @@
+C:\Users\kunaa\RiderProjects\ConsoleApp1\SharpLearningLab\bin\Debug\net7.0\SharpLearningLab.exe
+C:\Users\kunaa\RiderProjects\ConsoleApp1\SharpLearningLab\bin\Debug\net7.0\SharpLearningLab.deps.json
+C:\Users\kunaa\RiderProjects\ConsoleApp1\SharpLearningLab\bin\Debug\net7.0\SharpLearningLab.runtimeconfig.json
+C:\Users\kunaa\RiderProjects\ConsoleApp1\SharpLearningLab\bin\Debug\net7.0\SharpLearningLab.dll
+C:\Users\kunaa\RiderProjects\ConsoleApp1\SharpLearningLab\bin\Debug\net7.0\SharpLearningLab.pdb
+C:\Users\kunaa\RiderProjects\ConsoleApp1\SharpLearningLab\obj\Debug\net7.0\SharpLearningLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kunaa\RiderProjects\ConsoleApp1\SharpLearningLab\obj\Debug\net7.0\SharpLearningLab.AssemblyInfoInputs.cache
+C:\Users\kunaa\RiderProjects\ConsoleApp1\SharpLearningLab\obj\Debug\net7.0\SharpLearningLab.AssemblyInfo.cs
+C:\Users\kunaa\RiderProjects\ConsoleApp1\SharpLearningLab\obj\Debug\net7.0\SharpLearningLab.csproj.CoreCompileInputs.cache
+C:\Users\kunaa\RiderProjects\ConsoleApp1\SharpLearningLab\obj\Debug\net7.0\SharpLearningLab.dll
+C:\Users\kunaa\RiderProjects\ConsoleApp1\SharpLearningLab\obj\Debug\net7.0\refint\SharpLearningLab.dll
+C:\Users\kunaa\RiderProjects\ConsoleApp1\SharpLearningLab\obj\Debug\net7.0\SharpLearningLab.pdb
+C:\Users\kunaa\RiderProjects\ConsoleApp1\SharpLearningLab\obj\Debug\net7.0\SharpLearningLab.genruntimeconfig.cache
+C:\Users\kunaa\RiderProjects\ConsoleApp1\SharpLearningLab\obj\Debug\net7.0\ref\SharpLearningLab.dll
