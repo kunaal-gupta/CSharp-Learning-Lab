@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Immutable;
 
-class Arrays
+sealed class Arrays
 {
     private string name;
 
@@ -132,6 +132,12 @@ class Strings
 
 }
 
+class SubStrings : Strings
+{
+    
+    
+}
+
 class DataStructures
 {
     public static string NSidedShape(int n)
@@ -178,11 +184,12 @@ class MainProg
     public static void Main()
     {
         var ArrObj = new Arrays(2, 4, "ggr");
-        Console.WriteLine(ArrObj.Area());
-        Console.WriteLine(ArrObj.Sum());
+        // Console.WriteLine(ArrObj.Area());
+        // Console.WriteLine(ArrObj.Sum());
+        Console.WriteLine(SubStrings.CountDs("I'm a don, who's not done yet"));
         
         ArrObj.Name = "Accessing property";
-        Console.WriteLine(ArrObj.Name);
+        // Console.WriteLine(ArrObj.Name);
 
         // int[] arr;
         // int[] arr = new int[12];
