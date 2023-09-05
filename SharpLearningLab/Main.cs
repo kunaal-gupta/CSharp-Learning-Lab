@@ -3,10 +3,18 @@ using System.Collections.Immutable;
 
 class Arrays
 {
+    private string name;
+
+    public string Name
+    {
+        get { return name; }
+        set { name = value;  }
+    }
     public int a, b;
 
-    public Arrays(int num1, int num2)
+    public Arrays(int num1, int num2, string NameStr)
     {
+        Name = NameStr;
         a = num1;
         b = num2;
     }
@@ -169,10 +177,13 @@ class MainProg
 {
     public static void Main()
     {
-        var ArrObj = new Arrays(2, 4);
+        var ArrObj = new Arrays(2, 4, "ggr");
         Console.WriteLine(ArrObj.Area());
         Console.WriteLine(ArrObj.Sum());
         
+        ArrObj.Name = "Accessing property";
+        Console.WriteLine(ArrObj.Name);
+
         // int[] arr;
         // int[] arr = new int[12];
         // int[] arr = { 2, 3 };
