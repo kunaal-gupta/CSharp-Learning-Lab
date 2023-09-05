@@ -3,15 +3,22 @@ using System.Collections.Immutable;
 
 class Arrays
 {
-    public int Sum(int a, int b)
+    public int a, b;
+
+    public Arrays(int num1, int num2)
+    {
+        a = num1;
+        b = num2;
+    }
+    public int Sum()
     {
         return a + b;
     }
-    public static int Area(int a, int b)
+    public int Area()
     {
         return a * b / 2;
     }
-    public static string Month(int a)
+    public string Month(int a)
     {
         // string[] monthArr = new string[12];
         string[] monthArr = new string[12] {
@@ -19,12 +26,12 @@ class Arrays
         };
         return monthArr[a-1];
     }
-    public static double[] FindMinMax(double[] values) 
+    public double[] FindMinMax(double[] values) 
     {
         Array.Sort(values);
         return new double[] { values[0], values[values.Length - 1] };
     }
-    public static int GetAbsSum(int[] arr)
+    public int GetAbsSum(int[] arr)
     {
         int sum = 0;
         foreach (var number  in arr)
@@ -35,7 +42,7 @@ class Arrays
 
         return sum;
     }
-    public static int[] MultiplyByLength(int[] arr)
+    public int[] MultiplyByLength(int[] arr)
     {
         int arrLen = arr.Length;
         for (int i = 0; i<arr.Length; i++)
@@ -45,7 +52,7 @@ class Arrays
 
         return arr;
     }
-    public static int[] SortNumsAscending(int[] arr)
+    public int[] SortNumsAscending(int[] arr)
     {
         if (arr.Length == 0)
         {
@@ -56,7 +63,7 @@ class Arrays
          
         return arr;
     }
-    public static string GetFilename(string path)
+    public string GetFilename(string path)
     {
         string[] arr = path.Split('/');
         return arr[arr.Length - 1];
@@ -95,6 +102,24 @@ class Strings
     {
         string output = "Bur " + new string('r', b) + "p";
         return output;
+    }
+
+    public static string HackerSpeak(string str)
+    {
+        str = str.Replace('a', '4');
+        str = str.Replace('e', '3');
+        str = str.Replace('i', '1');
+        str = str.Replace('o', '0');
+        str = str.Replace('s', '5');
+        return str;
+        
+    }
+
+    public static bool CheckEquality(object a, object b)
+    {
+        if (a == b) return true;
+        else return false;
+        
     }
 
 }
@@ -144,16 +169,13 @@ class MainProg
 {
     public static void Main()
     {
-        // var a = new Arrays();
-        // string output = Strings.LongBurp(2);
-        Console.WriteLine(DataStructures.ount_all("Hello World"));
-        // Console.WriteLine(output);
-
+        var ArrObj = new Arrays(2, 4);
+        Console.WriteLine(ArrObj.Area());
+        Console.WriteLine(ArrObj.Sum());
+        
         // int[] arr;
         // int[] arr = new int[12];
-
         // int[] arr = { 2, 3 };
         // int[] arr = new int[2] { 2, 4 };
-
     }
 }
